@@ -1,2 +1,0 @@
-# TwitchDashboardwithReact
-Created with CodeSandbox
