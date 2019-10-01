@@ -22,7 +22,7 @@ function Games() {
     fetchData();
   }, []);
   return (
-    <div>
+    <div className="bg-info">
       <h1 className="center">Most Popular Games</h1>
       <div className="row">
         {games.map(game => (
