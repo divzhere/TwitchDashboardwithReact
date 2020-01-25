@@ -1,7 +1,3 @@
-# TwitchDashboardwithReact
+# Twitch Trending Games & their Live Streams
 
-A simple app made using React, React Hooks, Axios and Twitch API which displays the top trending Games and their Live Stream
-
-# Project Status
-
-This project is currently in development mode.
+This project is made using React, [Axios](https://github.com/axios/axios)  and [Twitch API](https://dev.twitch.tv/docs). You can find Trending Games & their Live Streams of Twitch on this web app. 
